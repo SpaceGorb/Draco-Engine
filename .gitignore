@@ -1,0 +1,18 @@
+# Build artifacts
+/build/
+out/
+bin/
+obj/
+
+# CMake noise
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
